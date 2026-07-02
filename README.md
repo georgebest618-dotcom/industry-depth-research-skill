@@ -1,7 +1,9 @@
 # industry-depth-research-skill
 A structured industry research skill distilled from How to Quickly Understand an Industry, designed to generate decision-ready industry analysis reports.
-行业深度研究分析 Skill
-一个基于《如何快速了解一个行业》方法论提炼而成的行业研究分析 Skill。
+
+#行业深度研究分析 Skill
+
+#一个基于《如何快速了解一个行业》方法论提炼而成的行业研究分析 Skill。
 
 它的目标不是复述原书内容，而是把书中的行业研究框架转化成一套可执行、可复用、可输出报告的分析流程，帮助用户在面对一个陌生行业、市场、赛道或投资机会时，快速建立结构化认知，并生成更接近“决策可用”的行业研究报告。
 
